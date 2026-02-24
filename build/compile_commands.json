@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rainsin/Cpp/build",
+  "command": "g++  -I/home/rainsin/Cpp/include  -O3 -march=native -g -std=gnu++17 -o CMakeFiles/mlp_trainer.dir/src/main.cpp.o -c /home/rainsin/Cpp/src/main.cpp",
+  "file": "/home/rainsin/Cpp/src/main.cpp",
+  "output": "CMakeFiles/mlp_trainer.dir/src/main.cpp.o"
+}
+]

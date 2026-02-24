@@ -1,0 +1,1 @@
+g++  -O3 -march=native -g -Wl,--dependency-file=CMakeFiles/mlp_trainer.dir/link.d CMakeFiles/mlp_trainer.dir/src/main.cpp.o -o mlp_trainer
